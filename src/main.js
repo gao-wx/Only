@@ -9,6 +9,7 @@ import less from 'less'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 
+
 // 单独使用  vue-resouce在vue2.0就停止更细 首选axios
 Vue.prototype.$axios = axios
 
